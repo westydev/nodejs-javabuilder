@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-javabuilder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "keywords": [],
+  "author": "WestyDev",
+  "license": "ISC",
+  "dependencies": {
+    "java": "^0.12.2",
+    "node-gyp": "^9.3.0",
+    "rebuild": "^0.1.2"
+  }
+}
